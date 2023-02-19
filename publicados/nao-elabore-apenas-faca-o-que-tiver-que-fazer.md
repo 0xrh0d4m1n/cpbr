@@ -2,18 +2,20 @@
 title:  "Não elabore, apenas faça o que tiver que fazer"
 date:   2021-11-14
 author:
- - Vinicius Yaunner
+ - Mestizo
 categories:
  - Artigo
 tags:
  - Agorismo
+description: 'Entre 2014 comecei a ser ativo em grupos no Facebook e Telegram, eram grupos variados de Linux, política, livros, RPG, hacking, cyberpunk, arte e programação em geral. Podia ficar um tempo absurdo só tentando provar meu ponto, discutindo com gente que nunca vi na vida.'
+
 ---
 ```
 Revisado por: Matheus Bach, Cypherpunks Brasil
 ```
 [```ver lista de contribuidores```](/about/#contribuidores)
 
-## Vinicius Yaunner
+## Mestizo
 
 **Esse texto não tem pretensão a nada, é apenas um desabafo e vai para onde eu estiver afim. Talvez eu atualize ele um dia, duvido que isso aconteça.**
 
